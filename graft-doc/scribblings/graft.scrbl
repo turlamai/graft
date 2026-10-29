@@ -1,7 +1,7 @@
 #lang scribble/manual
 
 @title{Graft}
-@author{TuringLambdaAI}
+@author{TurLamAI}
 
 Public module: @tt{graft}
 

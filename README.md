@@ -2,7 +2,7 @@
 
 **Genetic programming for Racket — programs as S-expressions, bred by subtree surgery.**
 
-[![CI](https://github.com/turinglambdaai/graft/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/graft/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+[![CI](https://github.com/turlamai/graft/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/graft/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 
 **English** · [中文](README.zh-CN.md)
 

@@ -2,7 +2,7 @@
 
 ## Scope
 
-Graft is the genetic-programming layer of the TuringLambdaAI product family:
+Graft is the genetic-programming layer of the TurLamAI product family:
 S-expression program trees, subtree breeding, and an evolution loop with
 symbolic-regression fitness. It is not a machine-learning framework, a
 numeric library, or an optimization solver.
