@@ -2,7 +2,7 @@
 
 **Racket 上的遗传编程——程序即 S 表达式，靠子树嫁接繁衍。**
 
-[![CI](https://github.com/turinglambdaai/graft/actions/workflows/ci.yml/badge.svg)](https://github.com/turinglambdaai/graft/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
+[![CI](https://github.com/turlamai/graft/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/graft/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
 
 **[English](README.md) · 中文**
 
