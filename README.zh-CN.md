@@ -1,7 +1,5 @@
 # Graft
 
-**支持：**[问题与反馈](https://github.com/turlamai/graft/issues) · [当前交付策略](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.zh-CN.md)
-
 **Racket 上的遗传编程——程序即 S 表达式，靠子树嫁接繁衍。**
 
 [![CI](https://github.com/turlamai/graft/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/graft/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
