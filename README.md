@@ -1,5 +1,7 @@
 # Graft
 
+**Support:** [Issues & feedback](https://github.com/turlamai/graft/issues) · [Development policy](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.md)
+
 **Genetic programming for Racket — programs as S-expressions, bred by subtree surgery.**
 
 [![CI](https://github.com/turlamai/graft/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/graft/actions/workflows/ci.yml) ![Racket](https://img.shields.io/badge/Racket-9F1D20?logo=racket&logoColor=white) [![License](https://img.shields.io/badge/license-Apache--2.0-blue)](LICENSE)
